@@ -1,6 +1,6 @@
 {
-  "name": "BEACON3000",
-  "description": "Chicago based family-run pool — a symbol of Freedom to Transact.",
+  "name": "BEACN Test Pool",
+  "description": "BEACN stake pool on Cardano Preview Testnet - preparing for Midnight validator",
   "ticker": "BEACN",
-  "homepage": "https://github.com/nesnejdivad/beacon3000-metadata"
+  "homepage": "https://beacnpool.org"
 }
